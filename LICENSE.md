@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS extension with updated Extension for Alfred for macOS - file-archiving and search-enhancement. Featuring file-archiving and search-enhancement,
 
 
 
